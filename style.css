@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+background-color: gray;
+}
+
+.container-big{
+    border: 2px solid ;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 30px;
+    
+}
+
+.value{
+    font-size: 100px;
+
+}
+
+.btn{
+    background-color: white;
+    margin: 5px 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+
+
+.decrease{
+    background-color: red;
+}
+
+.increase{
+    background-color: green;
+}
